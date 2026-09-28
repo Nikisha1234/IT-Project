@@ -1,0 +1,22 @@
+# Frontend
+RentMate/node_modules/
+RentMate/.env
+RentMate/.expo/
+
+# Backend generated files
+rentequip-backend/target/
+rentequip-backend/bin/
+
+# Backend uploaded files
+rentequip-backend/uploads/
+
+# Backend local configuration / secrets
+rentequip-backend/src/main/resources/application.properties
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
